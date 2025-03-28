@@ -41,5 +41,8 @@ Simply open the `https://rahul-chahar.github.io/markview-/` file and start typin
 
 ## Screen-Shot
 F:\Code\CHAI-CODE\JS Assignment 3\Markdown Previewer\Screenshot 2025-03-28 203448.png
+(Screenshot 2025-03-28 203448.png)
+----
+
 Made with ❤️
 
