@@ -41,7 +41,8 @@ Markdown-Previewer/
 ---
 
 ## Screen-Shot
-![Markdown Previewer Screenshot](Screenshot 2025-03-28 203448.png)
+![Markdown Previewer Screenshot](Screenshot-2025-03-28-203448.png)
+
 
 ----
 
