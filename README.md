@@ -35,8 +35,11 @@ Markdown-Previewer/
 - [marked.js](https://github.com/markedjs/marked) (for parsing Markdown)
 
 ## Live Demo
-Simply open the `index.html` file and start typing Markdown!
+Simply open the `https://rahul-chahar.github.io/markview-/` file and start typing Markdown!
 
 ---
+
+## Screen-Shot
+F:\Code\CHAI-CODE\JS Assignment 3\Markdown Previewer\Screenshot 2025-03-28 203448.png
 Made with ❤️
 
